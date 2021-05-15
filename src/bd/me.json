@@ -1,0 +1,76 @@
+{
+  "adjectives": [
+    {
+      "id": 1,
+      "word": "Able",
+      "phrase": "I am able to handle multiple tasks on a daily basis.",
+      "state": false
+    },
+    {
+      "id": 2,
+      "word": "Creative",
+      "phrase": "I use a creative approach to problem solve.",
+      "state": false
+    },
+    {
+      "id": 3,
+      "word": "Dependable",
+      "phrase": "I am a dependable person who is great at time management.",
+      "state": false
+    },
+    {
+      "id": 4,
+      "word": "Energetic",
+      "phrase": "I am always energetic and eager to learn new skills.",
+      "state": false
+    },
+    {
+      "id": 5,
+      "word": "Experience",
+      "phrase": "I have experience working as part of a team and individually.",
+      "state": false
+    },
+    {
+      "id": 6,
+      "word": "Flexible",
+      "phrase": "I am flexible in my working hours, being able to work evenings and weekends.",
+      "state": false
+    },
+    {
+      "id": 7,
+      "word": "Hardworking",
+      "phrase": "I am hardworking and always the last to leave the office in the evening.",
+      "state": false
+    },
+    {
+      "id": 8,
+      "word": "Imaginative",
+      "phrase": "I work with the team to provide imaginative solutions for our customers.",
+      "state": false
+    },
+    {
+      "id": 9,
+      "word": "Innovative",
+      "phrase": "I am always coming up with innovative ideas.",
+      "state": false
+    },
+    {
+      "id": 10,
+      "word": "Motivated",
+      "phrase": "I am motivated to go to the gym before work to get fit and healthy.",
+      "state": false
+    },
+    {
+      "id": 11,
+      "word": "Reliable",
+      "phrase": "Co-workers rely on me to be on time.",
+      "state": false
+    },
+    {
+      "id": 12,
+      "word": "Sense of humour",
+      "phrase": "Even though I take my work seriously, I do have a good sense of humour.",
+      "state": false
+    }
+  ]
+}

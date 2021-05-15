@@ -1,0 +1,54 @@
+@import "../../global.scss";
+.item {
+    background-color: $mainColor;
+    width: 35vw;
+    height: 50vh;
+    border-radius: 20px;
+    border: 1px solid lightgrey;
+    margin: 10px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: relative;
+    cursor: pointer;
+    transition: transform .8s ease;
+    
+    &:mouseover{
+        transform: rotateY(180deg);
+        background-color: white;
+        color: $mainColor;
+        h3{
+            opacity: 0;
+        }
+        .item__row{
+            opacity: 1;
+        }
+        
+    }
+
+    h3 {
+        text-align: center;
+        position: absolute;
+        font-size: 20px;
+        z-index: 1;
+        transition: all .5s ease;
+    }
+
+    
+    .item__row{
+        position: absolute;
+        display: flex;
+        flex-direction: row;
+        justify-items: stretch;
+        opacity: 0;
+        transition: all .8s ease;
+        
+        transform: rotateY(180deg);
+
+    }
+
+}
